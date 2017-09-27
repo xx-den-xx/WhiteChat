@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "699748987663",
+    "firebase_url": "https://whitechat-e3f73.firebaseio.com",
+    "project_id": "whitechat-e3f73",
+    "storage_bucket": "whitechat-e3f73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699748987663:android:3597775f8e171dd7",
+        "android_client_info": {
+          "package_name": "com.bda.whitechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699748987663-k74lg54qbcj13gd5kjpt4g12099j2434.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bda.whitechat",
+            "certificate_hash": "41760c3ec43b5cb0f088ed62acdd45731967e814"
+          }
+        },
+        {
+          "client_id": "699748987663-coq784jud6kh4umsmuo13i3hjc3u3qn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnGzAB6HwEV6jmzOdjtXEeiCCd9EbOhOA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699748987663-coq784jud6kh4umsmuo13i3hjc3u3qn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
